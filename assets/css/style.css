@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 62, 5%;
+}
+/* khooi phục lai cỡ chữ mặc định */
+body {
+  font-size: 1.6rem;
+}
